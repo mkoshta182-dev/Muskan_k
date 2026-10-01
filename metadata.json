@@ -1,0 +1,6 @@
+{
+  "name": "ComplaintPulse AI - Intelligent Triage & Resolution Hub",
+  "description": "AI-powered customer complaint classification by category and urgency, with automated next-step resolution workflows and response drafting using Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
